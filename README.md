@@ -20,4 +20,4 @@ $ npm run get-input
 $ npm start
 ```
 
-...and then point your browser to http://localhost:3000
+...and then point your browser to [http://localhost:3000](http://localhost:3000)
