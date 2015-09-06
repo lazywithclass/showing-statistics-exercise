@@ -1,0 +1,15 @@
+{
+  "name": "showing-statistics-exercise",
+  "version": "1.0.0",
+  "description": "showing some website usage statistics",
+  "main": "server.js",
+  "scripts": {
+    "get-input": "wget https://s3.amazonaws.com/challenge.wagon/input.csv",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
