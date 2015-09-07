@@ -2,7 +2,7 @@
 
 ## Configuration
 
-This has been run using node v0.10.33, to install dependencies run
+This has been run using node v0.10.33 and Chrome 45.0, to install dependencies run
 
 ```bash
 $ npm install
